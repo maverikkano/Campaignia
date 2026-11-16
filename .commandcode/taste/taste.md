@@ -1,0 +1,1 @@
+- Intends to host personal apps like Campaignia as static sites, likely on GitHub Pages. Confidence: 0.65
